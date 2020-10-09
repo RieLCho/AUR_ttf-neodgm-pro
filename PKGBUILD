@@ -6,7 +6,7 @@ arch=('any')
 url='https://neodgm.dalgona.dev/neodgm_pro.html'
 license=('OFL')
 install=ttf-neodgm-pro.install
-source=("https://github.com/Dalgona/neodgm-pro/releases/download/v${pkgver}/neodgm-pro.ttf")
+source=("https://github.com/Dalgona/neodgm-pro/releases/download/v${pkgver}/neodgm_pro.ttf")
 sha256sums=('54a3923f20e5f9546d886d05b301003c2bb0eee9bad5c567d9860b7983d265de')
 
 package()
