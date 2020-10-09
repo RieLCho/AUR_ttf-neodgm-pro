@@ -7,7 +7,7 @@ Dalgona님의 [Neo둥근모 Pro](https://github.com/Dalgona/neodgm-pro) 글꼴�
 
 AUR 패키지를 설치하기 전에 AUR helper와 의존 패키지들을 설치하는 것이 편리합니다.
 
-ex) Install yay on Arch 
+ex) Install yay
 ```
 $ sudo pacman -Syy
 $ sudo pacman -S git
