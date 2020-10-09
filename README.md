@@ -1,7 +1,7 @@
 # AUR_ttf-neodgm-pro
 ![yay_screenshot](./yay_screenshot.png)
 
-Dalgona님의 [Neo둥근모 Pro](https://github.com/Dalgona/neodgm-pro) 글꼴을 쉽게 설치할 수 있게끔 AUR repository에 등록했습니다.
+[Dalgona](https://github.com/Dalgona)님의 [Neo둥근모 Pro](https://github.com/Dalgona/neodgm-pro) 글꼴을 쉽게 설치할 수 있게끔 AUR repository에 등록했습니다.
 
 ## Prerequisites
 
@@ -19,7 +19,7 @@ $ makpkg -si
 ## Install
 
 ```
-~ yay ttf-neodgm-pro
+~ yay -S ttf-neodgm-pro
 ```
 혹은 다음과 같이 이 저장소를 복제하셔서 빌드하셔도 됩니다.
 ```
