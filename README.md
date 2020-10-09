@@ -21,8 +21,7 @@ $ makpkg -si
 ```
 ~ yay ttf-neodgm-pro
 ```
-or clone this repository, build and install.
-
+혹은 다음과 같이 이 저장소를 복제하셔서 빌드하셔도 됩니다.
 ```
 ~ git clone https://github.com/RielCho/AUR_ttf-neodgm-pro
 ~ cd AUR_ttf-neodgm-pro
