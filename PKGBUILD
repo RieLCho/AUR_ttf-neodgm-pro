@@ -12,5 +12,5 @@ sha256sums=('54a3923f20e5f9546d886d05b301003c2bb0eee9bad5c567d9860b7983d265de')
 package()
 {
   install -d $pkgdir/usr/share/fonts/TTF/
-  install -m644 $srcdir/neodgm-pro.ttf $pkgdir/usr/share/fonts/TTF/
+  install -m644 $srcdir/neodgm_pro.ttf $pkgdir/usr/share/fonts/TTF/
 }
